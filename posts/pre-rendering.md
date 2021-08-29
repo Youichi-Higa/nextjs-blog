@@ -1,5 +1,5 @@
 ---
-title: 'Two Forms of Pre-rendering'
+title: 'GitHubとVercel'
 date: '2020-01-01'
 ---
 
